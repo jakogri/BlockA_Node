@@ -1,0 +1,2 @@
+C:\2\BlockA_Node\BlockA_Node\obj\Debug\BlockA_Node.njsproj.CoreCompileInputs.cache
+C:\2\BlockA_Node\BlockA_Node\bin\Microsoft.NodejsTools.WebRole.dll

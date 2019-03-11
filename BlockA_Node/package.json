@@ -1,0 +1,9 @@
+{
+  "name": "block-a_node",
+  "version": "0.0.0",
+  "description": "BlockA_Node",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
